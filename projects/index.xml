@@ -1,0 +1,99 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Adityaa&#39;s Website</title>
+	<link>https://adityaatikoo.com/projects/</link>
+	<description>Recent content in Index for Projects on Adityaa&#39;s Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0530</lastBuildDate>
+    
+        <atom:link href="https://adityaatikoo.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>WPApwn: Automated Wifi Cracker</title>
+		<link>https://adityaatikoo.com/projects/wpapwn/</link>
+		<pubDate>Sat, 07 Jun 2025 00:00:00 +0530</pubDate>
+		
+		<guid>https://adityaatikoo.com/projects/wpapwn/</guid>
+		<description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      )  (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;     (   ) )
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      ) ( (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    _______)_
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; .-&amp;#39;---------|  W I F I   H A C K
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;( C|/\/\/\/\/|
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; &amp;#39;-./\/\/\/\/|
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &amp;#39;_________&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;#39;-------&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-description&#34;&gt;📖 Description&lt;/h2&gt;
+&lt;p&gt;WPApwn pronounced as WPA pwn, is an automated wifi cracker that captures WPA2 4-way handshake and cracks them via a dictionary attack.&lt;/p&gt;
+&lt;p&gt;It is still in development and I plan on adding the following features -&amp;gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Denial of Service&lt;/li&gt;
+&lt;li&gt;Offline brute forcing&lt;/li&gt;
+&lt;li&gt;PMKID Attack Support&lt;/li&gt;
+&lt;li&gt;Automated message when attack is completed.
+The tool is quite simple to use, just follow the instructions on my &lt;a href=&#34;https://github.com/AdityaaTikoo/WPApwn&#34;&gt;github page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;I got the idea of creating this tool from a show called &lt;a href=&#34;https://en.wikipedia.org/wiki/Mr._Robot&#34;&gt;Mr Robot&lt;/a&gt;, there was a scene in which the main protagonist “hacks” into his neighbour’s wifi manually. I thought to myself that I could probably automate this.&lt;/p&gt;
+&lt;p&gt;Yes I know that you can just buy a &lt;a href=&#34;https://shop.hak5.org/products/wifi-pineapple&#34;&gt;wifi pineapple&lt;/a&gt; and automate wifi pentests but those things cost 240 dollars !!!.&lt;/p&gt;
+&lt;p&gt;This is a free and opensource tool.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-things-to-note&#34;&gt;🛑 Things to Note&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not run this on a network you do not own, it is highly illegal to do so and I will not be held responsible !.&lt;/li&gt;
+&lt;li&gt;You need a wireless adapter that supports monitor mode and packet injection in order for this script to work.&lt;/li&gt;
+&lt;li&gt;Before using this tool you need to manually setup device drivers for your wireless adapter.&lt;/li&gt;
+&lt;li&gt;If you find any bugs in this script then please do let me know by sending an email at &lt;a href=&#34;mailto:adityaatikoo@gmail.com&#34;&gt;adityaatikoo@gmail.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>New Computer :)</title>
+		<link>https://adityaatikoo.com/updates/new_computer/</link>
+		<pubDate>Tue, 25 Feb 2025 00:00:00 +0530</pubDate>
+		
+		<guid>https://adityaatikoo.com/updates/new_computer/</guid>
+		<description>&lt;h2 id=&#34;pc-specs&#34;&gt;PC specs&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Ryzen 9 5900x 12 Cores 24 Threads CPU&lt;/li&gt;
+&lt;li&gt;ASUS B550 micro-ATX motherboard&lt;/li&gt;
+&lt;li&gt;HyperX Fury 32GB 3200MHZ ram (8x4)&lt;/li&gt;
+&lt;li&gt;MSI RTX 3060 12GB DDR6 GPU&lt;/li&gt;
+&lt;li&gt;Cooler Master 240mm AIO cooler&lt;/li&gt;
+&lt;li&gt;Samsung 512GB Nvme m.2 SSD&lt;/li&gt;
+&lt;li&gt;Adata 240GB x 2&lt;/li&gt;
+&lt;li&gt;MSI 750 watt PSU&lt;/li&gt;
+&lt;li&gt;Ants Esports 511 cabinet&lt;/li&gt;
+&lt;li&gt;TP link 600MBPS wifi card&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I built this during the last week of 2024, my only concern with this computer is that the cooler and motherboard may not be that adequate under heavy load, however this pc is running just fine for now.&lt;/p&gt;
+&lt;p&gt;My peripheral devices are the same only my computer has changed, anyway here are some cool pictures of it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://adityaatikoo.com/computer_1.jpeg&#34; alt=&#34;Computer with Monitor image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://adityaatikoo.com/computer_2.jpeg&#34; alt=&#34;All computer components on table for assembly&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>What happened to my previous site ?</title>
+		<link>https://adityaatikoo.com/updates/prev_site/</link>
+		<pubDate>Sat, 22 Feb 2025 00:00:00 +0530</pubDate>
+		
+		<guid>https://adityaatikoo.com/updates/prev_site/</guid>
+		<description>&lt;h2 id=&#34;reasons-why-i-had-to-remake-this-website&#34;&gt;Reasons why I had to remake this website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The font family that I was using now ceases to exist for some reason.&lt;/li&gt;
+&lt;li&gt;The biggest reason being that oracle decided that it’s a good idea to get rid of my server without sending me an email :). I tried reaching out to them but they did not respond back. As a result I will have to redo all my projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The design of this site is similar to my previous site with only a few minor adjustments. Below is a picture of the original one.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://adityaatikoo.com/webpage.jpeg&#34; alt=&#34;old website design&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
